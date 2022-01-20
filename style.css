@@ -1,0 +1,19 @@
+.bg1 {
+  background-color: #fffbf0;
+}
+.color-text {
+  color: #fabe4c;
+}
+.main-btn {
+  width: 170px;
+  height: 60px;
+  background-image: linear-gradient(#7c884e, #a3bb46);
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+}
+.card-pic {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+}
